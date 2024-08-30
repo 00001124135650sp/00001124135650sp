@@ -3,7 +3,7 @@
 Meu nome é Pedro Henrique Rodrigues
 
 - Estou estudando na Alura
-- Estou desenvolvendo na linguagem de JavaScript
+- Estou me desenvolvendo na linguagem de JavaScript
 - Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 - https://media1.tenor.com/m/dhghFVZgCMQAAAAC/dancing-dog.gif
 
